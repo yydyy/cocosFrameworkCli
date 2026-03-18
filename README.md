@@ -25,7 +25,7 @@ npm install cocos-framework-cli
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/yourname/cocos-framework-cli.git
+git clone https://github.com/yydyy/cocosFrameworkCli.git
 
 # 2. 安装依赖
 npm install

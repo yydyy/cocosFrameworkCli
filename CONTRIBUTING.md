@@ -7,7 +7,7 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/yourname/cocos-framework-cli.git
+git clone https://github.com/yydyy/cocosFrameworkCli.git
 cd cocos-framework-cli
 ```
 
@@ -115,7 +115,7 @@ npm publish
 
 ## 问题反馈
 
-遇到问题？请提交 [Issue](https://github.com/yourname/cocos-framework-cli/issues)。
+遇到问题？请提交 [Issue](https://github.com/yydyy/cocosFrameworkCli/issues)。
 
 ## 许可证
 
