@@ -1,0 +1,25 @@
+﻿{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "outDir": "temp/vscode-dist",
+        "skipLibCheck": true,
+        "experimentalDecorators": true,
+        "typeRoots": [
+            "./node_modules/@types",
+            "./assets/Script/types/d.ts"
+        ]
+    },
+    "include": [
+        "assets/Script/**/*"
+    ],
+    "exclude": [
+        "node_modules",
+        "library",
+        "local",
+        "temp",
+        "build",
+        "settings",
+        "scriptCodes"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "cocosToolsPath": {
+    "windows": "D:\\Documents\\cocostools\\cocosTools",
+    "darwin": "/Users/yourname/Documents/cocostools/cocosTools",
+    "linux": "/home/yourname/cocostools/cocosTools"
+  },
+  "targetProjectPath": "",
+  "description": "填写 cocosTools 的根目录路径（按操作系统分别配置），脚本会从这里复制文件到 template 目录；targetProjectPath 为目标项目路径（可选）"
+}

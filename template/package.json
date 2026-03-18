@@ -1,0 +1,11 @@
+﻿{
+    "scripts": {
+        "generate-app-extend": "node plugin/generate-app-extend.js",
+        "generate-ctrl-map": "node plugin/generate-ctrl-map.js",
+        "generate-event-type": "node plugin/generate-event-type.js",
+        "generate-view-map": "node plugin/generate-view-map.js",
+        "generate-bundle-map": "node plugin/generate-bundle-map.js",
+        "check-imports": "node plugin/check-imports.js",
+        "build-script": "cd scriptCodes && npm run build"
+    }
+}
